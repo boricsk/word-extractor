@@ -3,7 +3,7 @@ Usage: worext.py [OPTIONS]
   Word Extractor V 1.0.0
 
 Options:
-  -u, --url TEXT        URL of webpage to extract from
+  -u, --url TEXT        URL of webpage to extract from\n
   -l, --length INTEGER  Minimum lenght of word (Default 0=no limit)
   -o, --outfile TEXT    Write outpot to file
   -c, --comments        Extract comments line from target
